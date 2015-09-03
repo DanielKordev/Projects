@@ -1,0 +1,12 @@
+D:\Desktop\Homeworks\03. Primitive-Data-Types-And-Variables-HW\19. Bits-Inverter-2\bin\Debug\_19.Bits_Inverter_2.exe.config
+D:\Desktop\Homeworks\03. Primitive-Data-Types-And-Variables-HW\19. Bits-Inverter-2\bin\Debug\_19.Bits_Inverter_2.exe
+D:\Desktop\Homeworks\03. Primitive-Data-Types-And-Variables-HW\19. Bits-Inverter-2\bin\Debug\_19.Bits_Inverter_2.pdb
+D:\Desktop\Homeworks\03. Primitive-Data-Types-And-Variables-HW\19. Bits-Inverter-2\bin\Debug\_19.Bits_Inverter_2.exe.CodeAnalysisLog.xml
+D:\Desktop\Homeworks\03. Primitive-Data-Types-And-Variables-HW\19. Bits-Inverter-2\bin\Debug\_19.Bits_Inverter_2.exe.lastcodeanalysissucceeded
+D:\Desktop\Homeworks\03. Primitive-Data-Types-And-Variables-HW\19. Bits-Inverter-2\obj\Debug\_19.Bits_Inverter_2.exe
+D:\Desktop\Homeworks\03. Primitive-Data-Types-And-Variables-HW\19. Bits-Inverter-2\obj\Debug\_19.Bits_Inverter_2.pdb
+D:\Documents\Visual Studio 2015\Projects\Primitive-Data-Types-And-Variables-Homework\19. Bits-Inverter\bin\Debug\_19.Bits_Inverter_2.exe.config
+D:\Documents\Visual Studio 2015\Projects\Primitive-Data-Types-And-Variables-Homework\19. Bits-Inverter\obj\Debug\_19.Bits_Inverter_2.exe
+D:\Documents\Visual Studio 2015\Projects\Primitive-Data-Types-And-Variables-Homework\19. Bits-Inverter\obj\Debug\_19.Bits_Inverter_2.pdb
+D:\Documents\Visual Studio 2015\Projects\Primitive-Data-Types-And-Variables-Homework\19. Bits-Inverter\bin\Debug\_19.Bits_Inverter_2.exe
+D:\Documents\Visual Studio 2015\Projects\Primitive-Data-Types-And-Variables-Homework\19. Bits-Inverter\bin\Debug\_19.Bits_Inverter_2.pdb

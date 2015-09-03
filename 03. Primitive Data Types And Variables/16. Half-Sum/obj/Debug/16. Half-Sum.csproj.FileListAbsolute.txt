@@ -1,0 +1,7 @@
+D:\Desktop\Homeworks\03. Primitive-Data-Types-And-Variables-HW\16. Half-Sum\bin\Debug\_16.Half_Sum.exe.config
+D:\Desktop\Homeworks\03. Primitive-Data-Types-And-Variables-HW\16. Half-Sum\bin\Debug\_16.Half_Sum.exe
+D:\Desktop\Homeworks\03. Primitive-Data-Types-And-Variables-HW\16. Half-Sum\bin\Debug\_16.Half_Sum.pdb
+D:\Desktop\Homeworks\03. Primitive-Data-Types-And-Variables-HW\16. Half-Sum\bin\Debug\_16.Half_Sum.exe.CodeAnalysisLog.xml
+D:\Desktop\Homeworks\03. Primitive-Data-Types-And-Variables-HW\16. Half-Sum\bin\Debug\_16.Half_Sum.exe.lastcodeanalysissucceeded
+D:\Desktop\Homeworks\03. Primitive-Data-Types-And-Variables-HW\16. Half-Sum\obj\Debug\_16.Half_Sum.exe
+D:\Desktop\Homeworks\03. Primitive-Data-Types-And-Variables-HW\16. Half-Sum\obj\Debug\_16.Half_Sum.pdb

@@ -1,0 +1,10 @@
+D:\Desktop\Homeworks\03. Primitive-Data-Types-And-Variables-HW\01. Decalre-Variables\bin\Debug\_01.Decalre_Variables.exe.config
+D:\Desktop\Homeworks\03. Primitive-Data-Types-And-Variables-HW\01. Decalre-Variables\bin\Debug\_01.Decalre_Variables.exe
+D:\Desktop\Homeworks\03. Primitive-Data-Types-And-Variables-HW\01. Decalre-Variables\bin\Debug\_01.Decalre_Variables.pdb
+D:\Desktop\Homeworks\03. Primitive-Data-Types-And-Variables-HW\01. Decalre-Variables\bin\Debug\_01.Decalre_Variables.exe.CodeAnalysisLog.xml
+D:\Desktop\Homeworks\03. Primitive-Data-Types-And-Variables-HW\01. Decalre-Variables\bin\Debug\_01.Decalre_Variables.exe.lastcodeanalysissucceeded
+D:\Desktop\Homeworks\03. Primitive-Data-Types-And-Variables-HW\01. Decalre-Variables\obj\Debug\_01.Decalre_Variables.exe
+D:\Desktop\Homeworks\03. Primitive-Data-Types-And-Variables-HW\01. Decalre-Variables\obj\Debug\_01.Decalre_Variables.pdb
+D:\Documents\Visual Studio 2015\Projects\Primitive-Data-Types-And-Variables-Homework\01. Decalre-Variables\bin\Debug\_01.Decalre_Variables.exe.config
+D:\Documents\Visual Studio 2015\Projects\Primitive-Data-Types-And-Variables-Homework\01. Decalre-Variables\obj\Debug\_01.Decalre_Variables.exe
+D:\Documents\Visual Studio 2015\Projects\Primitive-Data-Types-And-Variables-Homework\01. Decalre-Variables\obj\Debug\_01.Decalre_Variables.pdb

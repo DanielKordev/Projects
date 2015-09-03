@@ -1,0 +1,7 @@
+D:\Desktop\Homeworks\03. Primitive-Data-Types-And-Variables-HW\14. Print-The-ASCII-Table\bin\Debug\_14.Print_The_ASCII_Table.exe.config
+D:\Desktop\Homeworks\03. Primitive-Data-Types-And-Variables-HW\14. Print-The-ASCII-Table\bin\Debug\_14.Print_The_ASCII_Table.exe
+D:\Desktop\Homeworks\03. Primitive-Data-Types-And-Variables-HW\14. Print-The-ASCII-Table\bin\Debug\_14.Print_The_ASCII_Table.pdb
+D:\Desktop\Homeworks\03. Primitive-Data-Types-And-Variables-HW\14. Print-The-ASCII-Table\bin\Debug\_14.Print_The_ASCII_Table.exe.CodeAnalysisLog.xml
+D:\Desktop\Homeworks\03. Primitive-Data-Types-And-Variables-HW\14. Print-The-ASCII-Table\bin\Debug\_14.Print_The_ASCII_Table.exe.lastcodeanalysissucceeded
+D:\Desktop\Homeworks\03. Primitive-Data-Types-And-Variables-HW\14. Print-The-ASCII-Table\obj\Debug\_14.Print_The_ASCII_Table.exe
+D:\Desktop\Homeworks\03. Primitive-Data-Types-And-Variables-HW\14. Print-The-ASCII-Table\obj\Debug\_14.Print_The_ASCII_Table.pdb

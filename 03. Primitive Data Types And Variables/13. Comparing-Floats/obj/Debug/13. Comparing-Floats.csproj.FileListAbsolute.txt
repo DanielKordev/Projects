@@ -1,0 +1,10 @@
+D:\Desktop\Homeworks\03. Primitive-Data-Types-And-Variables-HW\13. Comparing-Floats\bin\Debug\_13.Comparing_Floats.exe.config
+D:\Desktop\Homeworks\03. Primitive-Data-Types-And-Variables-HW\13. Comparing-Floats\bin\Debug\_13.Comparing_Floats.exe
+D:\Desktop\Homeworks\03. Primitive-Data-Types-And-Variables-HW\13. Comparing-Floats\bin\Debug\_13.Comparing_Floats.pdb
+D:\Desktop\Homeworks\03. Primitive-Data-Types-And-Variables-HW\13. Comparing-Floats\bin\Debug\_13.Comparing_Floats.exe.CodeAnalysisLog.xml
+D:\Desktop\Homeworks\03. Primitive-Data-Types-And-Variables-HW\13. Comparing-Floats\bin\Debug\_13.Comparing_Floats.exe.lastcodeanalysissucceeded
+D:\Desktop\Homeworks\03. Primitive-Data-Types-And-Variables-HW\13. Comparing-Floats\obj\Debug\_13.Comparing_Floats.exe
+D:\Desktop\Homeworks\03. Primitive-Data-Types-And-Variables-HW\13. Comparing-Floats\obj\Debug\_13.Comparing_Floats.pdb
+D:\Documents\Visual Studio 2015\Projects\Primitive-Data-Types-And-Variables-Homework\13. Comparing-Floats\bin\Debug\_13.Comparing_Floats.exe.config
+D:\Documents\Visual Studio 2015\Projects\Primitive-Data-Types-And-Variables-Homework\13. Comparing-Floats\obj\Debug\_13.Comparing_Floats.exe
+D:\Documents\Visual Studio 2015\Projects\Primitive-Data-Types-And-Variables-Homework\13. Comparing-Floats\obj\Debug\_13.Comparing_Floats.pdb

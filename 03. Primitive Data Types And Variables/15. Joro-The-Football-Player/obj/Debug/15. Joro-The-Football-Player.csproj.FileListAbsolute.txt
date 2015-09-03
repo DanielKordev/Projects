@@ -1,0 +1,7 @@
+D:\Desktop\Homeworks\03. Primitive-Data-Types-And-Variables-HW\15. Joro-The-Football-Player\bin\Debug\_15.Joro_The_Football_Player.exe.config
+D:\Desktop\Homeworks\03. Primitive-Data-Types-And-Variables-HW\15. Joro-The-Football-Player\bin\Debug\_15.Joro_The_Football_Player.exe
+D:\Desktop\Homeworks\03. Primitive-Data-Types-And-Variables-HW\15. Joro-The-Football-Player\bin\Debug\_15.Joro_The_Football_Player.pdb
+D:\Desktop\Homeworks\03. Primitive-Data-Types-And-Variables-HW\15. Joro-The-Football-Player\bin\Debug\_15.Joro_The_Football_Player.exe.CodeAnalysisLog.xml
+D:\Desktop\Homeworks\03. Primitive-Data-Types-And-Variables-HW\15. Joro-The-Football-Player\bin\Debug\_15.Joro_The_Football_Player.exe.lastcodeanalysissucceeded
+D:\Desktop\Homeworks\03. Primitive-Data-Types-And-Variables-HW\15. Joro-The-Football-Player\obj\Debug\_15.Joro_The_Football_Player.exe
+D:\Desktop\Homeworks\03. Primitive-Data-Types-And-Variables-HW\15. Joro-The-Football-Player\obj\Debug\_15.Joro_The_Football_Player.pdb

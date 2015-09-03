@@ -1,0 +1,7 @@
+D:\Desktop\Homeworks\03. Primitive-Data-Types-And-Variables-HW\10. Employee-Data\bin\Debug\_10.Employee_Data.exe.config
+D:\Desktop\Homeworks\03. Primitive-Data-Types-And-Variables-HW\10. Employee-Data\bin\Debug\_10.Employee_Data.exe
+D:\Desktop\Homeworks\03. Primitive-Data-Types-And-Variables-HW\10. Employee-Data\bin\Debug\_10.Employee_Data.pdb
+D:\Desktop\Homeworks\03. Primitive-Data-Types-And-Variables-HW\10. Employee-Data\bin\Debug\_10.Employee_Data.exe.CodeAnalysisLog.xml
+D:\Desktop\Homeworks\03. Primitive-Data-Types-And-Variables-HW\10. Employee-Data\bin\Debug\_10.Employee_Data.exe.lastcodeanalysissucceeded
+D:\Desktop\Homeworks\03. Primitive-Data-Types-And-Variables-HW\10. Employee-Data\obj\Debug\_10.Employee_Data.exe
+D:\Desktop\Homeworks\03. Primitive-Data-Types-And-Variables-HW\10. Employee-Data\obj\Debug\_10.Employee_Data.pdb

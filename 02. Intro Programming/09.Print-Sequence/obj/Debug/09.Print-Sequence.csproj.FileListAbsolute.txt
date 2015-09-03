@@ -1,0 +1,5 @@
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Intro-Programming-Homework\09.Print-Sequence\bin\Debug\09.Print-Sequence.exe.config
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Intro-Programming-Homework\09.Print-Sequence\bin\Debug\09.Print-Sequence.exe
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Intro-Programming-Homework\09.Print-Sequence\bin\Debug\09.Print-Sequence.pdb
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Intro-Programming-Homework\09.Print-Sequence\obj\Debug\09.Print-Sequence.exe
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Intro-Programming-Homework\09.Print-Sequence\obj\Debug\09.Print-Sequence.pdb

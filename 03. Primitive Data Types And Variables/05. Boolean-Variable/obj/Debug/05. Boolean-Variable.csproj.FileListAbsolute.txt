@@ -1,0 +1,7 @@
+D:\Desktop\Homeworks\03. Primitive-Data-Types-And-Variables-HW\05. Boolean-Variable\bin\Debug\_05.Boolean_Variable.exe.config
+D:\Desktop\Homeworks\03. Primitive-Data-Types-And-Variables-HW\05. Boolean-Variable\bin\Debug\_05.Boolean_Variable.exe
+D:\Desktop\Homeworks\03. Primitive-Data-Types-And-Variables-HW\05. Boolean-Variable\bin\Debug\_05.Boolean_Variable.pdb
+D:\Desktop\Homeworks\03. Primitive-Data-Types-And-Variables-HW\05. Boolean-Variable\bin\Debug\_05.Boolean_Variable.exe.CodeAnalysisLog.xml
+D:\Desktop\Homeworks\03. Primitive-Data-Types-And-Variables-HW\05. Boolean-Variable\bin\Debug\_05.Boolean_Variable.exe.lastcodeanalysissucceeded
+D:\Desktop\Homeworks\03. Primitive-Data-Types-And-Variables-HW\05. Boolean-Variable\obj\Debug\_05.Boolean_Variable.exe
+D:\Desktop\Homeworks\03. Primitive-Data-Types-And-Variables-HW\05. Boolean-Variable\obj\Debug\_05.Boolean_Variable.pdb

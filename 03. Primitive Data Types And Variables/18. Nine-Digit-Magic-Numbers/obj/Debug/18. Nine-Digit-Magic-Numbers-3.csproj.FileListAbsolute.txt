@@ -1,0 +1,5 @@
+D:\Desktop\Homeworks\03. Primitive-Data-Types-And-Variables-HW\18. Nine-Digit-Magic-Numbers-3\bin\Debug\_18.Nine_Digit_Magic_Numbers_3.exe.config
+D:\Desktop\Homeworks\03. Primitive-Data-Types-And-Variables-HW\18. Nine-Digit-Magic-Numbers-3\bin\Debug\_18.Nine_Digit_Magic_Numbers_3.exe
+D:\Desktop\Homeworks\03. Primitive-Data-Types-And-Variables-HW\18. Nine-Digit-Magic-Numbers-3\bin\Debug\_18.Nine_Digit_Magic_Numbers_3.pdb
+D:\Desktop\Homeworks\03. Primitive-Data-Types-And-Variables-HW\18. Nine-Digit-Magic-Numbers-3\obj\Debug\_18.Nine_Digit_Magic_Numbers_3.exe
+D:\Desktop\Homeworks\03. Primitive-Data-Types-And-Variables-HW\18. Nine-Digit-Magic-Numbers-3\obj\Debug\_18.Nine_Digit_Magic_Numbers_3.pdb

@@ -1,0 +1,2 @@
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Intro-Programming-Homework\05.Print-Your-Name\bin\Debug\05.Print-Your-Name.exe.config
+D:\Documents\Visual Studio 2015\Projects\SoftUni\Intro-Programming-Homework\05.Print-Your-Name\bin\Debug\05.Print-Your-Name.exe.config

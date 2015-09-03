@@ -1,0 +1,7 @@
+D:\Desktop\Homeworks\03. Primitive-Data-Types-And-Variables-HW\09. Exchange-Variable-Values\bin\Debug\_09.Exchange_Variable_Values.exe.config
+D:\Desktop\Homeworks\03. Primitive-Data-Types-And-Variables-HW\09. Exchange-Variable-Values\bin\Debug\_09.Exchange_Variable_Values.exe
+D:\Desktop\Homeworks\03. Primitive-Data-Types-And-Variables-HW\09. Exchange-Variable-Values\bin\Debug\_09.Exchange_Variable_Values.pdb
+D:\Desktop\Homeworks\03. Primitive-Data-Types-And-Variables-HW\09. Exchange-Variable-Values\bin\Debug\_09.Exchange_Variable_Values.exe.CodeAnalysisLog.xml
+D:\Desktop\Homeworks\03. Primitive-Data-Types-And-Variables-HW\09. Exchange-Variable-Values\bin\Debug\_09.Exchange_Variable_Values.exe.lastcodeanalysissucceeded
+D:\Desktop\Homeworks\03. Primitive-Data-Types-And-Variables-HW\09. Exchange-Variable-Values\obj\Debug\_09.Exchange_Variable_Values.exe
+D:\Desktop\Homeworks\03. Primitive-Data-Types-And-Variables-HW\09. Exchange-Variable-Values\obj\Debug\_09.Exchange_Variable_Values.pdb

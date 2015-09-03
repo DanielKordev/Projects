@@ -1,0 +1,8 @@
+D:\Desktop\Homeworks\03. Primitive-Data-Types-And-Variables-HW\02. Float-Or-Double\bin\Debug\_02.Float_Or_Double.exe.config
+D:\Desktop\Homeworks\03. Primitive-Data-Types-And-Variables-HW\02. Float-Or-Double\bin\Debug\_02.Float_Or_Double.exe
+D:\Desktop\Homeworks\03. Primitive-Data-Types-And-Variables-HW\02. Float-Or-Double\bin\Debug\_02.Float_Or_Double.pdb
+D:\Desktop\Homeworks\03. Primitive-Data-Types-And-Variables-HW\02. Float-Or-Double\bin\Debug\_02.Float_Or_Double.exe.CodeAnalysisLog.xml
+D:\Desktop\Homeworks\03. Primitive-Data-Types-And-Variables-HW\02. Float-Or-Double\bin\Debug\_02.Float_Or_Double.exe.lastcodeanalysissucceeded
+D:\Desktop\Homeworks\03. Primitive-Data-Types-And-Variables-HW\02. Float-Or-Double\obj\Debug\02. Float-Or-Double.csprojResolveAssemblyReference.cache
+D:\Desktop\Homeworks\03. Primitive-Data-Types-And-Variables-HW\02. Float-Or-Double\obj\Debug\_02.Float_Or_Double.exe
+D:\Desktop\Homeworks\03. Primitive-Data-Types-And-Variables-HW\02. Float-Or-Double\obj\Debug\_02.Float_Or_Double.pdb

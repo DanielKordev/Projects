@@ -1,0 +1,5 @@
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Intro-Programming-Homework\16.Long Sequence\bin\Debug\16.Long Sequence.exe.config
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Intro-Programming-Homework\16.Long Sequence\bin\Debug\16.Long Sequence.exe
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Intro-Programming-Homework\16.Long Sequence\bin\Debug\16.Long Sequence.pdb
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Intro-Programming-Homework\16.Long Sequence\obj\Debug\16.Long Sequence.exe
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Intro-Programming-Homework\16.Long Sequence\obj\Debug\16.Long Sequence.pdb

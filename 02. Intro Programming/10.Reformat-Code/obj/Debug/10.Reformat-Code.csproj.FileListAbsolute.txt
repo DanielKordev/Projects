@@ -1,0 +1,8 @@
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Intro-Programming-Homework\10.Reformat-Code\bin\Debug\10.Reformat-Code.exe.config
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Intro-Programming-Homework\10.Reformat-Code\bin\Debug\10.Reformat-Code.exe
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Intro-Programming-Homework\10.Reformat-Code\bin\Debug\10.Reformat-Code.pdb
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Intro-Programming-Homework\10.Reformat-Code\obj\Debug\10.Reformat-Code.exe
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Intro-Programming-Homework\10.Reformat-Code\obj\Debug\10.Reformat-Code.pdb
+D:\Documents\Visual Studio 2015\Projects\SoftUni\Intro-Programming-Homework\10.Reformat-Code\bin\Debug\10.Reformat-Code.exe.config
+D:\Documents\Visual Studio 2015\Projects\SoftUni\Intro-Programming-Homework\10.Reformat-Code\obj\Debug\10.Reformat-Code.exe
+D:\Documents\Visual Studio 2015\Projects\SoftUni\Intro-Programming-Homework\10.Reformat-Code\obj\Debug\10.Reformat-Code.pdb

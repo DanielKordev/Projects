@@ -1,0 +1,13 @@
+D:\Desktop\Homeworks\03. Primitive-Data-Types-And-Variables-HW\18. Nine-Digit-Magic-Numbers-3\bin\Debug\_18.Nine_Digit_Magic_Numbers_3.exe.config
+D:\Desktop\Homeworks\03. Primitive-Data-Types-And-Variables-HW\18. Nine-Digit-Magic-Numbers-3\bin\Debug\_18.Nine_Digit_Magic_Numbers_3.exe
+D:\Desktop\Homeworks\03. Primitive-Data-Types-And-Variables-HW\18. Nine-Digit-Magic-Numbers-3\bin\Debug\_18.Nine_Digit_Magic_Numbers_3.pdb
+D:\Desktop\Homeworks\03. Primitive-Data-Types-And-Variables-HW\18. Nine-Digit-Magic-Numbers-3\bin\Debug\_18.Nine_Digit_Magic_Numbers_3.exe.CodeAnalysisLog.xml
+D:\Desktop\Homeworks\03. Primitive-Data-Types-And-Variables-HW\18. Nine-Digit-Magic-Numbers-3\bin\Debug\_18.Nine_Digit_Magic_Numbers_3.exe.lastcodeanalysissucceeded
+D:\Desktop\Homeworks\03. Primitive-Data-Types-And-Variables-HW\18. Nine-Digit-Magic-Numbers-3\obj\Debug\_18.Nine_Digit_Magic_Numbers_3.exe
+D:\Desktop\Homeworks\03. Primitive-Data-Types-And-Variables-HW\18. Nine-Digit-Magic-Numbers-3\obj\Debug\_18.Nine_Digit_Magic_Numbers_3.pdb
+D:\Documents\Visual Studio 2015\Projects\Primitive-Data-Types-And-Variables-Homework\18. Nine-Digit-Magic-Numbers\bin\Debug\_18.Nine_Digit_Magic_Numbers_3.exe.config
+D:\Documents\Visual Studio 2015\Projects\Primitive-Data-Types-And-Variables-Homework\18. Nine-Digit-Magic-Numbers\obj\Debug\_18.Nine_Digit_Magic_Numbers_3.exe
+D:\Documents\Visual Studio 2015\Projects\Primitive-Data-Types-And-Variables-Homework\18. Nine-Digit-Magic-Numbers\obj\Debug\_18.Nine_Digit_Magic_Numbers_3.pdb
+D:\Documents\Visual Studio 2015\Projects\Primitive-Data-Types-And-Variables-Homework\18. Nine-Digit-Magic-Numbers\bin\Debug\_18.Nine_Digit_Magic_Numbers_3.exe
+D:\Documents\Visual Studio 2015\Projects\Primitive-Data-Types-And-Variables-Homework\18. Nine-Digit-Magic-Numbers\bin\Debug\_18.Nine_Digit_Magic_Numbers_3.pdb
+D:\Documents\Visual Studio 2015\Projects\Primitive-Data-Types-And-Variables-Homework\18. Nine-Digit-Magic-Numbers\obj\Debug\18. Nine-Digit-Magic-Numbers.csprojResolveAssemblyReference.cache

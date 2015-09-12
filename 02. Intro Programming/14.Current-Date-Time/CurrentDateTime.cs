@@ -10,6 +10,8 @@ namespace CurrentDateTime
     {
         static void Main()
         {
+            Console.ForegroundColor = ConsoleColor.White;
+            Console.OutputEncoding = Encoding.UTF8;
             DateTime today = DateTime.Now;
             Console.WriteLine(today);
         }

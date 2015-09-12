@@ -3,3 +3,9 @@ C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Intro-Programming-Homework
 C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Intro-Programming-Homework\14.Current-Date-Time\bin\Debug\14.Current-Date-Time.pdb
 C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Intro-Programming-Homework\14.Current-Date-Time\obj\Debug\14.Current-Date-Time.exe
 C:\Users\Daniel\Documents\Visual Studio 2015\Projects\Intro-Programming-Homework\14.Current-Date-Time\obj\Debug\14.Current-Date-Time.pdb
+D:\Documents\Visual Studio 2015\Projects\02. Intro Programming\14.Current-Date-Time\bin\Debug\14.Current-Date-Time.exe.config
+D:\Documents\Visual Studio 2015\Projects\02. Intro Programming\14.Current-Date-Time\obj\Debug\14.Current-Date-Time.exe
+D:\Documents\Visual Studio 2015\Projects\02. Intro Programming\14.Current-Date-Time\obj\Debug\14.Current-Date-Time.pdb
+D:\Documents\Visual Studio 2015\Projects\02. Intro Programming\14.Current-Date-Time\bin\Debug\14.Current-Date-Time.exe
+D:\Documents\Visual Studio 2015\Projects\02. Intro Programming\14.Current-Date-Time\bin\Debug\14.Current-Date-Time.pdb
+D:\Documents\Visual Studio 2015\Projects\02. Intro Programming\14.Current-Date-Time\obj\Debug\14.Current-Date-Time.csprojResolveAssemblyReference.cache

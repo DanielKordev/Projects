@@ -10,3 +10,6 @@ D:\Documents\Visual Studio 2015\Projects\Intro-Programming-Homework\08.Square-Ro
 D:\Documents\Visual Studio 2015\Projects\SoftUni\Intro-Programming-Homework\08.Square-Root\bin\Debug\08.Square-Root.exe.config
 D:\Documents\Visual Studio 2015\Projects\SoftUni\Intro-Programming-Homework\08.Square-Root\obj\Debug\08.Square-Root.exe
 D:\Documents\Visual Studio 2015\Projects\SoftUni\Intro-Programming-Homework\08.Square-Root\obj\Debug\08.Square-Root.pdb
+D:\Documents\Visual Studio 2015\Projects\02. Intro Programming\08.Square-Root\bin\Debug\08.Square-Root.exe.config
+D:\Documents\Visual Studio 2015\Projects\02. Intro Programming\08.Square-Root\obj\Debug\08.Square-Root.exe
+D:\Documents\Visual Studio 2015\Projects\02. Intro Programming\08.Square-Root\obj\Debug\08.Square-Root.pdb

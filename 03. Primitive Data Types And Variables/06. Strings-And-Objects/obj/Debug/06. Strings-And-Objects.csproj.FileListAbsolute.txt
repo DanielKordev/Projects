@@ -5,3 +5,6 @@ D:\Desktop\Homeworks\03. Primitive-Data-Types-And-Variables-HW\06. Strings-And-O
 D:\Desktop\Homeworks\03. Primitive-Data-Types-And-Variables-HW\06. Strings-And-Objects\bin\Debug\_06.Strings_And_Objects.exe.lastcodeanalysissucceeded
 D:\Desktop\Homeworks\03. Primitive-Data-Types-And-Variables-HW\06. Strings-And-Objects\obj\Debug\_06.Strings_And_Objects.exe
 D:\Desktop\Homeworks\03. Primitive-Data-Types-And-Variables-HW\06. Strings-And-Objects\obj\Debug\_06.Strings_And_Objects.pdb
+D:\Documents\Visual Studio 2015\Projects\03. Primitive Data Types And Variables\06. Strings-And-Objects\bin\Debug\_06.Strings_And_Objects.exe.config
+D:\Documents\Visual Studio 2015\Projects\03. Primitive Data Types And Variables\06. Strings-And-Objects\obj\Debug\_06.Strings_And_Objects.exe
+D:\Documents\Visual Studio 2015\Projects\03. Primitive Data Types And Variables\06. Strings-And-Objects\obj\Debug\_06.Strings_And_Objects.pdb

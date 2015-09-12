@@ -5,3 +5,6 @@ D:\Desktop\Homeworks\03. Primitive-Data-Types-And-Variables-HW\09. Exchange-Vari
 D:\Desktop\Homeworks\03. Primitive-Data-Types-And-Variables-HW\09. Exchange-Variable-Values\bin\Debug\_09.Exchange_Variable_Values.exe.lastcodeanalysissucceeded
 D:\Desktop\Homeworks\03. Primitive-Data-Types-And-Variables-HW\09. Exchange-Variable-Values\obj\Debug\_09.Exchange_Variable_Values.exe
 D:\Desktop\Homeworks\03. Primitive-Data-Types-And-Variables-HW\09. Exchange-Variable-Values\obj\Debug\_09.Exchange_Variable_Values.pdb
+D:\Documents\Visual Studio 2015\Projects\03. Primitive Data Types And Variables\09. Exchange-Variable-Values\bin\Debug\_09.Exchange_Variable_Values.exe.config
+D:\Documents\Visual Studio 2015\Projects\03. Primitive Data Types And Variables\09. Exchange-Variable-Values\obj\Debug\_09.Exchange_Variable_Values.exe
+D:\Documents\Visual Studio 2015\Projects\03. Primitive Data Types And Variables\09. Exchange-Variable-Values\obj\Debug\_09.Exchange_Variable_Values.pdb

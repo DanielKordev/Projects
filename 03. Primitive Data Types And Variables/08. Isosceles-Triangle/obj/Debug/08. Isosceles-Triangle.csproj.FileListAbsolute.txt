@@ -5,3 +5,6 @@ D:\Desktop\Homeworks\03. Primitive-Data-Types-And-Variables-HW\08. Isosceles-Tri
 D:\Desktop\Homeworks\03. Primitive-Data-Types-And-Variables-HW\08. Isosceles-Triangle\bin\Debug\_08.Isosceles_Triangle.exe.lastcodeanalysissucceeded
 D:\Desktop\Homeworks\03. Primitive-Data-Types-And-Variables-HW\08. Isosceles-Triangle\obj\Debug\_08.Isosceles_Triangle.exe
 D:\Desktop\Homeworks\03. Primitive-Data-Types-And-Variables-HW\08. Isosceles-Triangle\obj\Debug\_08.Isosceles_Triangle.pdb
+D:\Documents\Visual Studio 2015\Projects\03. Primitive Data Types And Variables\08. Isosceles-Triangle\bin\Debug\_08.Isosceles_Triangle.exe.config
+D:\Documents\Visual Studio 2015\Projects\03. Primitive Data Types And Variables\08. Isosceles-Triangle\obj\Debug\_08.Isosceles_Triangle.exe
+D:\Documents\Visual Studio 2015\Projects\03. Primitive Data Types And Variables\08. Isosceles-Triangle\obj\Debug\_08.Isosceles_Triangle.pdb

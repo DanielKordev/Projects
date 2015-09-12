@@ -5,3 +5,6 @@ D:\Desktop\Homeworks\03. Primitive-Data-Types-And-Variables-HW\11. Bank-Account-
 D:\Desktop\Homeworks\03. Primitive-Data-Types-And-Variables-HW\11. Bank-Account-Data\bin\Debug\_11.Bank_Account_Data.exe.lastcodeanalysissucceeded
 D:\Desktop\Homeworks\03. Primitive-Data-Types-And-Variables-HW\11. Bank-Account-Data\obj\Debug\_11.Bank_Account_Data.exe
 D:\Desktop\Homeworks\03. Primitive-Data-Types-And-Variables-HW\11. Bank-Account-Data\obj\Debug\_11.Bank_Account_Data.pdb
+D:\Documents\Visual Studio 2015\Projects\03. Primitive Data Types And Variables\11. Bank-Account-Data\bin\Debug\_11.Bank_Account_Data.exe.config
+D:\Documents\Visual Studio 2015\Projects\03. Primitive Data Types And Variables\11. Bank-Account-Data\obj\Debug\_11.Bank_Account_Data.exe
+D:\Documents\Visual Studio 2015\Projects\03. Primitive Data Types And Variables\11. Bank-Account-Data\obj\Debug\_11.Bank_Account_Data.pdb

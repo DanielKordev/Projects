@@ -5,3 +5,6 @@ D:\Desktop\Homeworks\03. Primitive-Data-Types-And-Variables-HW\05. Boolean-Varia
 D:\Desktop\Homeworks\03. Primitive-Data-Types-And-Variables-HW\05. Boolean-Variable\bin\Debug\_05.Boolean_Variable.exe.lastcodeanalysissucceeded
 D:\Desktop\Homeworks\03. Primitive-Data-Types-And-Variables-HW\05. Boolean-Variable\obj\Debug\_05.Boolean_Variable.exe
 D:\Desktop\Homeworks\03. Primitive-Data-Types-And-Variables-HW\05. Boolean-Variable\obj\Debug\_05.Boolean_Variable.pdb
+D:\Documents\Visual Studio 2015\Projects\03. Primitive Data Types And Variables\05. Boolean-Variable\bin\Debug\_05.Boolean_Variable.exe.config
+D:\Documents\Visual Studio 2015\Projects\03. Primitive Data Types And Variables\05. Boolean-Variable\obj\Debug\_05.Boolean_Variable.exe
+D:\Documents\Visual Studio 2015\Projects\03. Primitive Data Types And Variables\05. Boolean-Variable\obj\Debug\_05.Boolean_Variable.pdb

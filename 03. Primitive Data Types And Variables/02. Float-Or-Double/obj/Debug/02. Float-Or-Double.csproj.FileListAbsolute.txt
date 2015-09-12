@@ -6,3 +6,6 @@ D:\Desktop\Homeworks\03. Primitive-Data-Types-And-Variables-HW\02. Float-Or-Doub
 D:\Desktop\Homeworks\03. Primitive-Data-Types-And-Variables-HW\02. Float-Or-Double\obj\Debug\02. Float-Or-Double.csprojResolveAssemblyReference.cache
 D:\Desktop\Homeworks\03. Primitive-Data-Types-And-Variables-HW\02. Float-Or-Double\obj\Debug\_02.Float_Or_Double.exe
 D:\Desktop\Homeworks\03. Primitive-Data-Types-And-Variables-HW\02. Float-Or-Double\obj\Debug\_02.Float_Or_Double.pdb
+D:\Documents\Visual Studio 2015\Projects\03. Primitive Data Types And Variables\02. Float-Or-Double\bin\Debug\_02.Float_Or_Double.exe.config
+D:\Documents\Visual Studio 2015\Projects\03. Primitive Data Types And Variables\02. Float-Or-Double\obj\Debug\_02.Float_Or_Double.exe
+D:\Documents\Visual Studio 2015\Projects\03. Primitive Data Types And Variables\02. Float-Or-Double\obj\Debug\_02.Float_Or_Double.pdb

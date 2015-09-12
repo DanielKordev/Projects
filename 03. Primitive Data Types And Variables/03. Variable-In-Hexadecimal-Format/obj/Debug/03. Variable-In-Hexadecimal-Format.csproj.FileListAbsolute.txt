@@ -5,3 +5,6 @@ D:\Desktop\Homeworks\03. Primitive-Data-Types-And-Variables-HW\03. Variable-In-H
 D:\Desktop\Homeworks\03. Primitive-Data-Types-And-Variables-HW\03. Variable-In-Hexadecimal-Format\bin\Debug\_03.Variable_In_Hexadecimal_Format.exe.lastcodeanalysissucceeded
 D:\Desktop\Homeworks\03. Primitive-Data-Types-And-Variables-HW\03. Variable-In-Hexadecimal-Format\obj\Debug\_03.Variable_In_Hexadecimal_Format.exe
 D:\Desktop\Homeworks\03. Primitive-Data-Types-And-Variables-HW\03. Variable-In-Hexadecimal-Format\obj\Debug\_03.Variable_In_Hexadecimal_Format.pdb
+D:\Documents\Visual Studio 2015\Projects\03. Primitive Data Types And Variables\03. Variable-In-Hexadecimal-Format\bin\Debug\_03.Variable_In_Hexadecimal_Format.exe.config
+D:\Documents\Visual Studio 2015\Projects\03. Primitive Data Types And Variables\03. Variable-In-Hexadecimal-Format\obj\Debug\_03.Variable_In_Hexadecimal_Format.exe
+D:\Documents\Visual Studio 2015\Projects\03. Primitive Data Types And Variables\03. Variable-In-Hexadecimal-Format\obj\Debug\_03.Variable_In_Hexadecimal_Format.pdb

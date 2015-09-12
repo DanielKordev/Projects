@@ -5,3 +5,6 @@ D:\Desktop\Homeworks\03. Primitive-Data-Types-And-Variables-HW\04. Unicode-Chara
 D:\Desktop\Homeworks\03. Primitive-Data-Types-And-Variables-HW\04. Unicode-Character\bin\Debug\_04.Unicode_Character.exe.lastcodeanalysissucceeded
 D:\Desktop\Homeworks\03. Primitive-Data-Types-And-Variables-HW\04. Unicode-Character\obj\Debug\_04.Unicode_Character.exe
 D:\Desktop\Homeworks\03. Primitive-Data-Types-And-Variables-HW\04. Unicode-Character\obj\Debug\_04.Unicode_Character.pdb
+D:\Documents\Visual Studio 2015\Projects\03. Primitive Data Types And Variables\04. Unicode-Character\bin\Debug\_04.Unicode_Character.exe.config
+D:\Documents\Visual Studio 2015\Projects\03. Primitive Data Types And Variables\04. Unicode-Character\obj\Debug\_04.Unicode_Character.exe
+D:\Documents\Visual Studio 2015\Projects\03. Primitive Data Types And Variables\04. Unicode-Character\obj\Debug\_04.Unicode_Character.pdb

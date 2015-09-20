@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 class PrimeNumberCheck
 {
-    static void Main(string[] args)
+    static void Main()
     {
         string input;
         int num;

@@ -1,0 +1,5 @@
+D:\Desktop\05. Operators Expressions and Statements\10. Point-Inside-Circle-Outside-Rectangle\bin\Debug\_10.Point_Inside_Circle_Outside_Rectangle.exe.config
+D:\Desktop\05. Operators Expressions and Statements\10. Point-Inside-Circle-Outside-Rectangle\bin\Debug\_10.Point_Inside_Circle_Outside_Rectangle.exe
+D:\Desktop\05. Operators Expressions and Statements\10. Point-Inside-Circle-Outside-Rectangle\bin\Debug\_10.Point_Inside_Circle_Outside_Rectangle.pdb
+D:\Desktop\05. Operators Expressions and Statements\10. Point-Inside-Circle-Outside-Rectangle\obj\Debug\_10.Point_Inside_Circle_Outside_Rectangle.exe
+D:\Desktop\05. Operators Expressions and Statements\10. Point-Inside-Circle-Outside-Rectangle\obj\Debug\_10.Point_Inside_Circle_Outside_Rectangle.pdb

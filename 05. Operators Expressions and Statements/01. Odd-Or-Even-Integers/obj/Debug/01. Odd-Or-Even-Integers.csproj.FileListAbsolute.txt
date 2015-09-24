@@ -1,0 +1,6 @@
+D:\Desktop\05. Operators Expressions and Statements\01. Odd-Or-Even-Integers\bin\Debug\_01.Odd_Or_Even_Integers.exe.config
+D:\Desktop\05. Operators Expressions and Statements\01. Odd-Or-Even-Integers\bin\Debug\_01.Odd_Or_Even_Integers.exe
+D:\Desktop\05. Operators Expressions and Statements\01. Odd-Or-Even-Integers\bin\Debug\_01.Odd_Or_Even_Integers.pdb
+D:\Desktop\05. Operators Expressions and Statements\01. Odd-Or-Even-Integers\obj\Debug\01. Odd-Or-Even-Integers.csprojResolveAssemblyReference.cache
+D:\Desktop\05. Operators Expressions and Statements\01. Odd-Or-Even-Integers\obj\Debug\_01.Odd_Or_Even_Integers.exe
+D:\Desktop\05. Operators Expressions and Statements\01. Odd-Or-Even-Integers\obj\Debug\_01.Odd_Or_Even_Integers.pdb

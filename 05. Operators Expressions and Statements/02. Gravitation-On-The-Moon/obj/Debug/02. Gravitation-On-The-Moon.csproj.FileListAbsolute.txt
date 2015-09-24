@@ -1,0 +1,11 @@
+D:\Desktop\05. Operators Expressions and Statements\02. Gravitation-On-The-Moon\bin\Debug\_02.Gravitation_On_The_Moon.exe.config
+D:\Desktop\05. Operators Expressions and Statements\02. Gravitation-On-The-Moon\bin\Debug\_02.Gravitation_On_The_Moon.exe
+D:\Desktop\05. Operators Expressions and Statements\02. Gravitation-On-The-Moon\bin\Debug\_02.Gravitation_On_The_Moon.pdb
+D:\Desktop\05. Operators Expressions and Statements\02. Gravitation-On-The-Moon\obj\Debug\_02.Gravitation_On_The_Moon.exe
+D:\Desktop\05. Operators Expressions and Statements\02. Gravitation-On-The-Moon\obj\Debug\_02.Gravitation_On_The_Moon.pdb
+D:\Documents\Visual Studio 2015\Projects\05. Operators Expressions and Statements\02. Gravitation-On-The-Moon\bin\Debug\_02.Gravitation_On_The_Moon.exe.config
+D:\Documents\Visual Studio 2015\Projects\05. Operators Expressions and Statements\02. Gravitation-On-The-Moon\obj\Debug\_02.Gravitation_On_The_Moon.exe
+D:\Documents\Visual Studio 2015\Projects\05. Operators Expressions and Statements\02. Gravitation-On-The-Moon\obj\Debug\_02.Gravitation_On_The_Moon.pdb
+D:\Documents\Visual Studio 2015\Projects\05. Operators Expressions and Statements\02. Gravitation-On-The-Moon\bin\Debug\_02.Gravitation_On_The_Moon.exe
+D:\Documents\Visual Studio 2015\Projects\05. Operators Expressions and Statements\02. Gravitation-On-The-Moon\bin\Debug\_02.Gravitation_On_The_Moon.pdb
+D:\Documents\Visual Studio 2015\Projects\05. Operators Expressions and Statements\02. Gravitation-On-The-Moon\obj\Debug\02. Gravitation-On-The-Moon.csprojResolveAssemblyReference.cache

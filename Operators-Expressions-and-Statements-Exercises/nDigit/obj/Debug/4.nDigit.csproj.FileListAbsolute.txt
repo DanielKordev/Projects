@@ -1,0 +1,8 @@
+d:\documents\visual studio 2015\Projects\05. Operators-Expressions-and-Statements-Exercises\nDigit\bin\Debug\nDigit.exe.config
+d:\documents\visual studio 2015\Projects\05. Operators-Expressions-and-Statements-Exercises\nDigit\bin\Debug\nDigit.exe
+d:\documents\visual studio 2015\Projects\05. Operators-Expressions-and-Statements-Exercises\nDigit\bin\Debug\nDigit.pdb
+d:\documents\visual studio 2015\Projects\05. Operators-Expressions-and-Statements-Exercises\nDigit\obj\Debug\nDigit.exe
+d:\documents\visual studio 2015\Projects\05. Operators-Expressions-and-Statements-Exercises\nDigit\obj\Debug\nDigit.pdb
+D:\Documents\Visual Studio 2015\Projects\Operators-Expressions-and-Statements-Exercises\nDigit\bin\Debug\nDigit.exe.config
+D:\Documents\Visual Studio 2015\Projects\Operators-Expressions-and-Statements-Exercises\nDigit\obj\Debug\nDigit.exe
+D:\Documents\Visual Studio 2015\Projects\Operators-Expressions-and-Statements-Exercises\nDigit\obj\Debug\nDigit.pdb

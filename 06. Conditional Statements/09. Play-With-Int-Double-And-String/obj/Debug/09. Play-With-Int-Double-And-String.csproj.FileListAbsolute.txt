@@ -1,0 +1,6 @@
+D:\Documents\Visual Studio 2015\Projects\06. Conditional Statements\09. Play-With-Int-Double-And-String\bin\Debug\_09.Play_With_Int_Double_And_String.exe.config
+D:\Documents\Visual Studio 2015\Projects\06. Conditional Statements\09. Play-With-Int-Double-And-String\bin\Debug\_09.Play_With_Int_Double_And_String.exe
+D:\Documents\Visual Studio 2015\Projects\06. Conditional Statements\09. Play-With-Int-Double-And-String\bin\Debug\_09.Play_With_Int_Double_And_String.pdb
+D:\Documents\Visual Studio 2015\Projects\06. Conditional Statements\09. Play-With-Int-Double-And-String\obj\Debug\_09.Play_With_Int_Double_And_String.exe
+D:\Documents\Visual Studio 2015\Projects\06. Conditional Statements\09. Play-With-Int-Double-And-String\obj\Debug\_09.Play_With_Int_Double_And_String.pdb
+D:\Documents\Visual Studio 2015\Projects\06. Conditional Statements\09. Play-With-Int-Double-And-String\obj\Debug\09. Play-With-Int-Double-And-String.csprojResolveAssemblyReference.cache

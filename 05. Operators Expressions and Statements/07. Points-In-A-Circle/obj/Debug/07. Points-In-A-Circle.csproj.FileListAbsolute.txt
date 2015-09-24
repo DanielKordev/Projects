@@ -1,0 +1,5 @@
+D:\Desktop\05. Operators Expressions and Statements\07. Points-In-A-Circle\bin\Debug\_07.Points_In_A_Circle.exe.config
+D:\Desktop\05. Operators Expressions and Statements\07. Points-In-A-Circle\bin\Debug\_07.Points_In_A_Circle.exe
+D:\Desktop\05. Operators Expressions and Statements\07. Points-In-A-Circle\bin\Debug\_07.Points_In_A_Circle.pdb
+D:\Desktop\05. Operators Expressions and Statements\07. Points-In-A-Circle\obj\Debug\_07.Points_In_A_Circle.exe
+D:\Desktop\05. Operators Expressions and Statements\07. Points-In-A-Circle\obj\Debug\_07.Points_In_A_Circle.pdb

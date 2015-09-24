@@ -1,0 +1,5 @@
+D:\Desktop\05. Operators Expressions and Statements\05. Third-Digit-Is-Seven\bin\Debug\_05.Third_Digit_Is_Seven.exe.config
+D:\Desktop\05. Operators Expressions and Statements\05. Third-Digit-Is-Seven\bin\Debug\_05.Third_Digit_Is_Seven.exe
+D:\Desktop\05. Operators Expressions and Statements\05. Third-Digit-Is-Seven\bin\Debug\_05.Third_Digit_Is_Seven.pdb
+D:\Desktop\05. Operators Expressions and Statements\05. Third-Digit-Is-Seven\obj\Debug\_05.Third_Digit_Is_Seven.exe
+D:\Desktop\05. Operators Expressions and Statements\05. Third-Digit-Is-Seven\obj\Debug\_05.Third_Digit_Is_Seven.pdb

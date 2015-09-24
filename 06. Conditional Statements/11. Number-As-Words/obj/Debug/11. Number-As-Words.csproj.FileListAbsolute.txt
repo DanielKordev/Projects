@@ -1,0 +1,6 @@
+D:\Documents\Visual Studio 2015\Projects\06. Conditional Statements\11. Number-As-Words\bin\Debug\_11.Number_As_Words.exe.config
+D:\Documents\Visual Studio 2015\Projects\06. Conditional Statements\11. Number-As-Words\bin\Debug\_11.Number_As_Words.exe
+D:\Documents\Visual Studio 2015\Projects\06. Conditional Statements\11. Number-As-Words\bin\Debug\_11.Number_As_Words.pdb
+D:\Documents\Visual Studio 2015\Projects\06. Conditional Statements\11. Number-As-Words\obj\Debug\11. Number-As-Words.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2015\Projects\06. Conditional Statements\11. Number-As-Words\obj\Debug\_11.Number_As_Words.exe
+D:\Documents\Visual Studio 2015\Projects\06. Conditional Statements\11. Number-As-Words\obj\Debug\_11.Number_As_Words.pdb

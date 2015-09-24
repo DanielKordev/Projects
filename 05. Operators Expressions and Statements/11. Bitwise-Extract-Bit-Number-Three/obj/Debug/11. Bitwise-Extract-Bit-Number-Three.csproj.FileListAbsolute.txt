@@ -1,0 +1,5 @@
+D:\Desktop\05. Operators Expressions and Statements\11. Bitwise-Extract-Bit-Number-Three\bin\Debug\_11.Bitwise_Extract_Bit_Number_Three.exe.config
+D:\Desktop\05. Operators Expressions and Statements\11. Bitwise-Extract-Bit-Number-Three\bin\Debug\_11.Bitwise_Extract_Bit_Number_Three.exe
+D:\Desktop\05. Operators Expressions and Statements\11. Bitwise-Extract-Bit-Number-Three\bin\Debug\_11.Bitwise_Extract_Bit_Number_Three.pdb
+D:\Desktop\05. Operators Expressions and Statements\11. Bitwise-Extract-Bit-Number-Three\obj\Debug\_11.Bitwise_Extract_Bit_Number_Three.exe
+D:\Desktop\05. Operators Expressions and Statements\11. Bitwise-Extract-Bit-Number-Three\obj\Debug\_11.Bitwise_Extract_Bit_Number_Three.pdb

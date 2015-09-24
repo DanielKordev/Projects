@@ -1,0 +1,6 @@
+d:\documents\visual studio 2015\Projects\JustSnake\JustSnake\bin\Debug\JustSnake.exe.config
+d:\documents\visual studio 2015\Projects\JustSnake\JustSnake\bin\Debug\JustSnake.exe
+d:\documents\visual studio 2015\Projects\JustSnake\JustSnake\bin\Debug\JustSnake.pdb
+d:\documents\visual studio 2015\Projects\JustSnake\JustSnake\obj\Debug\JustSnake.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2015\Projects\JustSnake\JustSnake\obj\Debug\JustSnake.exe
+d:\documents\visual studio 2015\Projects\JustSnake\JustSnake\obj\Debug\JustSnake.pdb

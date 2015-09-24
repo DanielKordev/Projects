@@ -1,0 +1,11 @@
+D:\Documents\Шаблони на Office по избор\Homeworks\05. Console-Input-Output-Homework\01. Sum-Of-Three-Numbers\bin\Debug\_01.Sum_Of_Three_Numbers.exe.config
+D:\Documents\Шаблони на Office по избор\Homeworks\05. Console-Input-Output-Homework\01. Sum-Of-Three-Numbers\bin\Debug\_01.Sum_Of_Three_Numbers.exe
+D:\Documents\Шаблони на Office по избор\Homeworks\05. Console-Input-Output-Homework\01. Sum-Of-Three-Numbers\bin\Debug\_01.Sum_Of_Three_Numbers.pdb
+D:\Documents\Шаблони на Office по избор\Homeworks\05. Console-Input-Output-Homework\01. Sum-Of-Three-Numbers\obj\Debug\_01.Sum_Of_Three_Numbers.exe
+D:\Documents\Шаблони на Office по избор\Homeworks\05. Console-Input-Output-Homework\01. Sum-Of-Three-Numbers\obj\Debug\_01.Sum_Of_Three_Numbers.pdb
+D:\Desktop\04. Console-Input-Output-Homework\01. Sum-Of-Three-Numbers\bin\Debug\_01.Sum_Of_Three_Numbers.exe.config
+D:\Desktop\04. Console-Input-Output-Homework\01. Sum-Of-Three-Numbers\obj\Debug\_01.Sum_Of_Three_Numbers.exe
+D:\Desktop\04. Console-Input-Output-Homework\01. Sum-Of-Three-Numbers\obj\Debug\_01.Sum_Of_Three_Numbers.pdb
+D:\Documents\Visual Studio 2015\Projects\04. Console-Input-Output-Homework\01. Sum-Of-Three-Numbers\bin\Debug\_01.Sum_Of_Three_Numbers.exe.config
+D:\Documents\Visual Studio 2015\Projects\04. Console-Input-Output-Homework\01. Sum-Of-Three-Numbers\obj\Debug\_01.Sum_Of_Three_Numbers.exe
+D:\Documents\Visual Studio 2015\Projects\04. Console-Input-Output-Homework\01. Sum-Of-Three-Numbers\obj\Debug\_01.Sum_Of_Three_Numbers.pdb

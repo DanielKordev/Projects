@@ -6,22 +6,26 @@ namespace Problem1
     {
         static void Main()
         {
-            int a = int.Parse(Console.ReadLine());
-            int b = int.Parse(Console.ReadLine());
-            int c = int.Parse(Console.ReadLine());
+            double a = double.Parse(Console.ReadLine());
+            double b = double.Parse(Console.ReadLine());
+            double c = double.Parse(Console.ReadLine());
 
-            int biggerNumber = a;
+            double biggerNumber = 0;
+
+            if (a > biggerNumber)
+            {
+                biggerNumber = a;
+            }
             if (b > biggerNumber)
             {
                 biggerNumber = b;
             }
-
             if (c > biggerNumber)
             {
                 biggerNumber = c;
             }
 
-            Console.WriteLine("{0}", biggerNumber);
+            Console.WriteLine("\n{0}\n", biggerNumber);
         }
     }
 }

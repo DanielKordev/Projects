@@ -1,0 +1,5 @@
+d:\documents\visual studio 2015\Projects\05. Operators-Expressions-and-Statements-Exercises\Trapezoid\bin\Debug\Trapezoid.exe.config
+d:\documents\visual studio 2015\Projects\05. Operators-Expressions-and-Statements-Exercises\Trapezoid\bin\Debug\Trapezoid.exe
+d:\documents\visual studio 2015\Projects\05. Operators-Expressions-and-Statements-Exercises\Trapezoid\bin\Debug\Trapezoid.pdb
+d:\documents\visual studio 2015\Projects\05. Operators-Expressions-and-Statements-Exercises\Trapezoid\obj\Debug\Trapezoid.exe
+d:\documents\visual studio 2015\Projects\05. Operators-Expressions-and-Statements-Exercises\Trapezoid\obj\Debug\Trapezoid.pdb

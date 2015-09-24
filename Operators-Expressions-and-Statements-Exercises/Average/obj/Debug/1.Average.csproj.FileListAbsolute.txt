@@ -1,0 +1,6 @@
+d:\documents\visual studio 2015\Projects\05. Operators-Expressions-and-Statements-Exercises\Average\bin\Debug\Average.exe.config
+d:\documents\visual studio 2015\Projects\05. Operators-Expressions-and-Statements-Exercises\Average\obj\Debug\Average.exe
+d:\documents\visual studio 2015\Projects\05. Operators-Expressions-and-Statements-Exercises\Average\obj\Debug\Average.pdb
+D:\Documents\Visual Studio 2015\Projects\Operators-Expressions-and-Statements-Exercises\Average\bin\Debug\Average.exe.config
+D:\Documents\Visual Studio 2015\Projects\Operators-Expressions-and-Statements-Exercises\Average\obj\Debug\Average.exe
+D:\Documents\Visual Studio 2015\Projects\Operators-Expressions-and-Statements-Exercises\Average\obj\Debug\Average.pdb

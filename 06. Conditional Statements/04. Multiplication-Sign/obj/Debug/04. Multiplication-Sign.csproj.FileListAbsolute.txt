@@ -1,0 +1,10 @@
+D:\Documents\Шаблони на Office по избор\Homeworks\06. Conditional-Statements-Homework\04. Multiplication-Sign\bin\Debug\_04.Multiplication_Sign.exe.config
+D:\Documents\Шаблони на Office по избор\Homeworks\06. Conditional-Statements-Homework\04. Multiplication-Sign\bin\Debug\_04.Multiplication_Sign.exe
+D:\Documents\Шаблони на Office по избор\Homeworks\06. Conditional-Statements-Homework\04. Multiplication-Sign\bin\Debug\_04.Multiplication_Sign.pdb
+D:\Documents\Шаблони на Office по избор\Homeworks\06. Conditional-Statements-Homework\04. Multiplication-Sign\obj\Debug\_04.Multiplication_Sign.exe
+D:\Documents\Шаблони на Office по избор\Homeworks\06. Conditional-Statements-Homework\04. Multiplication-Sign\obj\Debug\_04.Multiplication_Sign.pdb
+D:\Documents\Visual Studio 2015\Projects\06. Conditional Statements\04. Multiplication-Sign\bin\Debug\_04.Multiplication_Sign.exe.config
+D:\Documents\Visual Studio 2015\Projects\06. Conditional Statements\04. Multiplication-Sign\obj\Debug\_04.Multiplication_Sign.exe
+D:\Documents\Visual Studio 2015\Projects\06. Conditional Statements\04. Multiplication-Sign\obj\Debug\_04.Multiplication_Sign.pdb
+D:\Documents\Visual Studio 2015\Projects\06. Conditional Statements\04. Multiplication-Sign\bin\Debug\_04.Multiplication_Sign.exe
+D:\Documents\Visual Studio 2015\Projects\06. Conditional Statements\04. Multiplication-Sign\bin\Debug\_04.Multiplication_Sign.pdb

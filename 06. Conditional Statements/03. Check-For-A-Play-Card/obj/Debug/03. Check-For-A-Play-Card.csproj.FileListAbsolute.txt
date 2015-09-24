@@ -1,0 +1,7 @@
+D:\Documents\Шаблони на Office по избор\Homeworks\06. Conditional-Statements-Homework\03. Check-For-A-Play-Card\bin\Debug\_03.Check_For_A_Play_Card.exe.config
+D:\Documents\Visual Studio 2015\Projects\06. Conditional Statements\03. Check-For-A-Play-Card\bin\Debug\_03.Check_For_A_Play_Card.exe.config
+D:\Documents\Visual Studio 2015\Projects\06. Conditional Statements\03. Check-For-A-Play-Card\bin\Debug\_03.Check_For_A_Play_Card.exe
+D:\Documents\Visual Studio 2015\Projects\06. Conditional Statements\03. Check-For-A-Play-Card\bin\Debug\_03.Check_For_A_Play_Card.pdb
+D:\Documents\Visual Studio 2015\Projects\06. Conditional Statements\03. Check-For-A-Play-Card\obj\Debug\_03.Check_For_A_Play_Card.exe
+D:\Documents\Visual Studio 2015\Projects\06. Conditional Statements\03. Check-For-A-Play-Card\obj\Debug\_03.Check_For_A_Play_Card.pdb
+D:\Documents\Visual Studio 2015\Projects\06. Conditional Statements\03. Check-For-A-Play-Card\obj\Debug\03. Check-For-A-Play-Card.csprojResolveAssemblyReference.cache

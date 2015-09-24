@@ -1,0 +1,5 @@
+D:\Desktop\05. Operators Expressions and Statements\12. Extract-Bit-From-Integer\bin\Debug\_12.Extract_Bit_From_Integer.exe.config
+D:\Desktop\05. Operators Expressions and Statements\12. Extract-Bit-From-Integer\bin\Debug\_12.Extract_Bit_From_Integer.exe
+D:\Desktop\05. Operators Expressions and Statements\12. Extract-Bit-From-Integer\bin\Debug\_12.Extract_Bit_From_Integer.pdb
+D:\Desktop\05. Operators Expressions and Statements\12. Extract-Bit-From-Integer\obj\Debug\_12.Extract_Bit_From_Integer.exe
+D:\Desktop\05. Operators Expressions and Statements\12. Extract-Bit-From-Integer\obj\Debug\_12.Extract_Bit_From_Integer.pdb

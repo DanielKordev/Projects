@@ -1,0 +1,5 @@
+D:\Desktop\05. Operators Expressions and Statements\19. The-Explorer\bin\Debug\_19.The_Explorer.exe.config
+D:\Desktop\05. Operators Expressions and Statements\19. The-Explorer\bin\Debug\_19.The_Explorer.exe
+D:\Desktop\05. Operators Expressions and Statements\19. The-Explorer\bin\Debug\_19.The_Explorer.pdb
+D:\Desktop\05. Operators Expressions and Statements\19. The-Explorer\obj\Debug\_19.The_Explorer.exe
+D:\Desktop\05. Operators Expressions and Statements\19. The-Explorer\obj\Debug\_19.The_Explorer.pdb

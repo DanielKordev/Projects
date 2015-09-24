@@ -1,0 +1,3 @@
+D:\Documents\Шаблони на Office по избор\Homeworks\05. Console-Input-Output-Homework\02. Print-Company-Information\bin\Debug\_02.Print_Company_Information.exe.config
+D:\Desktop\04. Console-Input-Output-Homework\02. Print-Company-Information\bin\Debug\_02.Print_Company_Information.exe.config
+D:\Documents\Visual Studio 2015\Projects\04. Console-Input-Output-Homework\02. Print-Company-Information\bin\Debug\_02.Print_Company_Information.exe.config

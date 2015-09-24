@@ -1,0 +1,5 @@
+D:\Desktop\05. Operators Expressions and Statements\03. Divide-By-Seven-And-Five\bin\Debug\_03.Divide_By_Seven_And_Five.exe.config
+D:\Desktop\05. Operators Expressions and Statements\03. Divide-By-Seven-And-Five\bin\Debug\_03.Divide_By_Seven_And_Five.exe
+D:\Desktop\05. Operators Expressions and Statements\03. Divide-By-Seven-And-Five\bin\Debug\_03.Divide_By_Seven_And_Five.pdb
+D:\Desktop\05. Operators Expressions and Statements\03. Divide-By-Seven-And-Five\obj\Debug\_03.Divide_By_Seven_And_Five.exe
+D:\Desktop\05. Operators Expressions and Statements\03. Divide-By-Seven-And-Five\obj\Debug\_03.Divide_By_Seven_And_Five.pdb

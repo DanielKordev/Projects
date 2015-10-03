@@ -1,0 +1,6 @@
+D:\Desktop\07. Loops\04. Deck-Of-52-Cards\bin\Debug\_04.Deck_Of_52_Cards.exe.config
+D:\Desktop\07. Loops\04. Deck-Of-52-Cards\bin\Debug\_04.Deck_Of_52_Cards.exe
+D:\Desktop\07. Loops\04. Deck-Of-52-Cards\bin\Debug\_04.Deck_Of_52_Cards.pdb
+D:\Desktop\07. Loops\04. Deck-Of-52-Cards\obj\Debug\04. Deck-Of-52-Cards.csprojResolveAssemblyReference.cache
+D:\Desktop\07. Loops\04. Deck-Of-52-Cards\obj\Debug\_04.Deck_Of_52_Cards.exe
+D:\Desktop\07. Loops\04. Deck-Of-52-Cards\obj\Debug\_04.Deck_Of_52_Cards.pdb

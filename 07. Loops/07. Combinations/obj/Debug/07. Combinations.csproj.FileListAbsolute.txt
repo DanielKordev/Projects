@@ -1,0 +1,5 @@
+D:\Desktop\07. Loops\07. Combinations\bin\Debug\_07.Combinations.exe.config
+D:\Desktop\07. Loops\07. Combinations\bin\Debug\_07.Combinations.exe
+D:\Desktop\07. Loops\07. Combinations\bin\Debug\_07.Combinations.pdb
+D:\Desktop\07. Loops\07. Combinations\obj\Debug\_07.Combinations.exe
+D:\Desktop\07. Loops\07. Combinations\obj\Debug\_07.Combinations.pdb

@@ -1,0 +1,6 @@
+D:\Desktop\07. Loops\01. Numbers-From-1-To-N\bin\Debug\_01.Numbers_From_1_To_N.exe.config
+D:\Desktop\07. Loops\01. Numbers-From-1-To-N\bin\Debug\_01.Numbers_From_1_To_N.exe
+D:\Desktop\07. Loops\01. Numbers-From-1-To-N\bin\Debug\_01.Numbers_From_1_To_N.pdb
+D:\Desktop\07. Loops\01. Numbers-From-1-To-N\obj\Debug\01. Numbers-From-1-To-N.csprojResolveAssemblyReference.cache
+D:\Desktop\07. Loops\01. Numbers-From-1-To-N\obj\Debug\_01.Numbers_From_1_To_N.exe
+D:\Desktop\07. Loops\01. Numbers-From-1-To-N\obj\Debug\_01.Numbers_From_1_To_N.pdb

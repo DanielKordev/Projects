@@ -1,0 +1,5 @@
+D:\Desktop\07. Loops\05. Factorial-Sum\bin\Debug\_05.Factorial_Sum.exe.config
+D:\Desktop\07. Loops\05. Factorial-Sum\bin\Debug\_05.Factorial_Sum.exe
+D:\Desktop\07. Loops\05. Factorial-Sum\bin\Debug\_05.Factorial_Sum.pdb
+D:\Desktop\07. Loops\05. Factorial-Sum\obj\Debug\_05.Factorial_Sum.exe
+D:\Desktop\07. Loops\05. Factorial-Sum\obj\Debug\_05.Factorial_Sum.pdb

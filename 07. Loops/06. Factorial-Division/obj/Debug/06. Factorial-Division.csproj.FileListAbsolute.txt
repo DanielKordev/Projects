@@ -1,0 +1,6 @@
+D:\Desktop\07. Loops\06. Factorial-Division\bin\Debug\_06.Factorial_Division.exe.config
+D:\Desktop\07. Loops\06. Factorial-Division\obj\Debug\06. Factorial-Division.csprojResolveAssemblyReference.cache
+D:\Desktop\07. Loops\06. Factorial-Division\bin\Debug\_06.Factorial_Division.exe
+D:\Desktop\07. Loops\06. Factorial-Division\bin\Debug\_06.Factorial_Division.pdb
+D:\Desktop\07. Loops\06. Factorial-Division\obj\Debug\_06.Factorial_Division.exe
+D:\Desktop\07. Loops\06. Factorial-Division\obj\Debug\_06.Factorial_Division.pdb

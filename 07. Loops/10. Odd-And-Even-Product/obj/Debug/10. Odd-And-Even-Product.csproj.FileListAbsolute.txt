@@ -1,0 +1,5 @@
+D:\Desktop\07. Loops\10. Odd-And-Even-Product\bin\Debug\_10.Odd_And_Even_Product.exe.config
+D:\Desktop\07. Loops\10. Odd-And-Even-Product\bin\Debug\_10.Odd_And_Even_Product.exe
+D:\Desktop\07. Loops\10. Odd-And-Even-Product\bin\Debug\_10.Odd_And_Even_Product.pdb
+D:\Desktop\07. Loops\10. Odd-And-Even-Product\obj\Debug\_10.Odd_And_Even_Product.exe
+D:\Desktop\07. Loops\10. Odd-And-Even-Product\obj\Debug\_10.Odd_And_Even_Product.pdb

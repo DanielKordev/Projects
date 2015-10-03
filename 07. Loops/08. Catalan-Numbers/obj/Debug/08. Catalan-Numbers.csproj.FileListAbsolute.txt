@@ -1,0 +1,5 @@
+D:\Desktop\07. Loops\08. Catalan-Numbers\bin\Debug\_08.Catalan_Numbers.exe.config
+D:\Desktop\07. Loops\08. Catalan-Numbers\bin\Debug\_08.Catalan_Numbers.exe
+D:\Desktop\07. Loops\08. Catalan-Numbers\bin\Debug\_08.Catalan_Numbers.pdb
+D:\Desktop\07. Loops\08. Catalan-Numbers\obj\Debug\_08.Catalan_Numbers.exe
+D:\Desktop\07. Loops\08. Catalan-Numbers\obj\Debug\_08.Catalan_Numbers.pdb

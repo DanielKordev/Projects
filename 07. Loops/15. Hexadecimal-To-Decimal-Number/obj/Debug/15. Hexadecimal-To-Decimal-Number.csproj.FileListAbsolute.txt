@@ -1,0 +1,5 @@
+D:\Desktop\07. Loops\15. Hexadecimal-To-Decimal-Number\bin\Debug\_15.Hexadecimal_To_Decimal_Number.exe.config
+D:\Desktop\07. Loops\15. Hexadecimal-To-Decimal-Number\bin\Debug\_15.Hexadecimal_To_Decimal_Number.exe
+D:\Desktop\07. Loops\15. Hexadecimal-To-Decimal-Number\bin\Debug\_15.Hexadecimal_To_Decimal_Number.pdb
+D:\Desktop\07. Loops\15. Hexadecimal-To-Decimal-Number\obj\Debug\_15.Hexadecimal_To_Decimal_Number.exe
+D:\Desktop\07. Loops\15. Hexadecimal-To-Decimal-Number\obj\Debug\_15.Hexadecimal_To_Decimal_Number.pdb

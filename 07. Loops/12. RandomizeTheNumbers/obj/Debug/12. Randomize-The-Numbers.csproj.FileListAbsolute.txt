@@ -1,0 +1,5 @@
+D:\Desktop\07. Loops\12. RandomizeTheNumbers\bin\Debug\_12.RandomizeTheNumbers.exe.config
+D:\Desktop\07. Loops\12. RandomizeTheNumbers\bin\Debug\_12.RandomizeTheNumbers.exe
+D:\Desktop\07. Loops\12. RandomizeTheNumbers\bin\Debug\_12.RandomizeTheNumbers.pdb
+D:\Desktop\07. Loops\12. RandomizeTheNumbers\obj\Debug\_12.RandomizeTheNumbers.exe
+D:\Desktop\07. Loops\12. RandomizeTheNumbers\obj\Debug\_12.RandomizeTheNumbers.pdb
